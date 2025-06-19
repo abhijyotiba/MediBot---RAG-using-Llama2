@@ -71,3 +71,7 @@ python app.py
 ```
 
 Then visit http://127.0.0.1:8080 to chat!
+
+<p align="center">
+  <img src="https://i.postimg.cc/8chm9WyX/Screenshot-2025-06-20-004114.png" width="700"/>
+</p>
